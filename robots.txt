@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.kuaimiaodl.com.cn/sitemap.xml
